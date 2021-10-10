@@ -1,4 +1,6 @@
 # V8 - 2.0 SOON
+- MariaDB
+- PHP 7.1+
 
 ![alt text](https://github.com/O-NETHOSTING/V8-2.0-SOON-/blob/main/image%20(1).png)
 ![alt text](https://github.com/O-NETHOSTING/V8-2.0-SOON-/blob/main/image%20(2).png)
