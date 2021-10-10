@@ -11,3 +11,6 @@
 ![alt text](https://github.com/O-NETHOSTING/V8-2.0-SOON-/blob/main/image%20(9).png)
 ![alt text](https://github.com/O-NETHOSTING/V8-2.0-SOON-/blob/main/image%20(10).png)
 ![alt text](https://github.com/O-NETHOSTING/V8-2.0-SOON-/blob/main/image%20(11).png)
+![alt text](https://github.com/O-NETHOSTING/V8-2.0-SOON-/blob/main/image%20(12).png)
+![alt text](https://github.com/O-NETHOSTING/V8-2.0-SOON-/blob/main/image%20(13).png)
+![alt text](https://github.com/O-NETHOSTING/V8-2.0-SOON-/blob/main/image%20(14).png)
